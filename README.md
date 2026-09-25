@@ -96,8 +96,6 @@ Após a entrega, a empresa acompanha a operação e trata situações como probl
 
 Os processos descritos acima foram representados em três fluxogramas:
 
-![Fluxogramas dos processos da CK Autoshop](docs/fluxogramas.png)
-
 - **4.1** — Processo de Cotação e Venda
 - **4.2** — Processo de Compra e Entrada no Estoque
 - **4.3** — Processo de Separação, Embalagem, Expedição e Entrega
