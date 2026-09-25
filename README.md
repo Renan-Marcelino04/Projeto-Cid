@@ -252,8 +252,6 @@ As entidades foram identificadas a partir dos processos levantados na entrevista
 
 ## 7. Dicionário de Dados e Estrutura SQL
 
-> **Versão HTML navegável:** [📄 dicionario-dados.html](dicionario-dados.html) — dicionário de dados completo em página HTML (autocontida, com navegação por seção e por entidade), cobrindo modelo conceitual, fluxo de dados (DFD), convenções e notação formal (DD com prefixos NM_/DT_/ID_/CD_/QT_/TP_/IN_ e demais), dicionário por entidade (14 tabelas, SGBD MySQL 8/InnoDB, utf8mb4), log de acesso e uma seção de conformidade com a LGPD (papéis de acesso por tabela e base legal). Essa versão usa `VENDEDOR` em vez de `Usuário` genérico, alinhada ao DER da seção 8; já a proposta em PostgreSQL das subseções 7.2–7.4 abaixo ainda usa as entidades da versão anterior do DER (`Usuário`, `Título Financeiro`, `Parcela Financeira`) e deve ser revisada para ficar consistente, se for a versão adotada na entrega.
-
 O dicionário de dados a seguir traduz o DER da seção 8 em uma proposta de estrutura relacional (PostgreSQL): tipos, tamanhos, obrigatoriedade e restrições para cada campo, além do script SQL de cada tabela e do script completo. É uma **proposta de modelagem** — tipos, tamanhos, obrigatoriedade e estados foram sugeridos a partir do DER; o SQL aplica restrições locais, e regras que envolvem várias tabelas ainda exigem implementação (transações/triggers).
 
 **Resumo:** 14 entidades originais do DER + 1 tabela proposta (`item_cotacao`) · 15 tabelas ao todo · script em PostgreSQL.
