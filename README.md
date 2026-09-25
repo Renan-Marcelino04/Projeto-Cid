@@ -20,7 +20,7 @@ Trabalho acadêmico de levantamento de requisitos e modelagem conceitual de banc
 | Gustavo Henrique Bispo Costa | 48010677 |
 | Renan Marcelino da Silva | 49876414 |
 | Pedro Henrique Ferreira de Souza | 47266031 |
-
+| Pablo Paiva Rover | 48204668 |
 ---
 
 ## 1. Caracterização da Organização
