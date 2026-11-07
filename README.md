@@ -639,3 +639,19 @@ Indicadores propostos para acompanhar a operação, calculados a partir das tabe
 ## 13. Apresentação final (pitch de 8 minutos)
 
 Estrutura: (1) problema da organização; (2) solução proposta; (3) modelo lógico; (4) SQL em execução; (5) consultas gerenciais e de auditoria; (6) potencial de BI e IA; (7) benefícios para a tomada de decisão.
+
+
+**DER:**
+
+https://app.brmodeloweb.com/publicview/6aee261197ea37556406465e
+
+
+**Banco de dados:**
+
+https://projeto-cid.vercel.app/
+
+Login: ck_app
+
+Senha: 123456@Teste
+
+Database: ck_autoshop
