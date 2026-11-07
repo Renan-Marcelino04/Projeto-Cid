@@ -1,7 +1,12 @@
+ main
 <p align="center">
   <img src="logo-ck-autoshop.png" alt="Logotipo da CK Auto Shop — Variedade e Compromisso" width="220">
 </p>
 
+
+# CK-AUTOSHOP
+Modelagem de Banco de dados CK Autoshop
+>>> main
 # Modelagem de Banco de Dados — CK Autoshop
 
 Trabalho acadêmico de levantamento de requisitos e modelagem conceitual de banco de dados, desenvolvido a partir de entrevista realizada na empresa CK Autoshop.
@@ -26,6 +31,10 @@ Trabalho acadêmico de levantamento de requisitos e modelagem conceitual de banc
 | Renan Marcelino da Silva | 49876414 |
 | Pedro Henrique Ferreira de Souza | 47266031 |
 | Pablo Paiva Rover | 48204668 |
+
+**Link_Repositório**
+https://github.com/Renan-Marcelino04/Projeto-Cid
+
 ---
 
 ## 1. Caracterização da Organização
