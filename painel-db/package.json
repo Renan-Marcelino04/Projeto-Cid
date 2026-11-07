@@ -1,0 +1,9 @@
+{
+  "name": "ck-autoshop-db",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node start.js", "check": "node --check index.js && node --check server.js && node --check start.js && node --check public/app.js" },
+  "engines": { "node": ">=22" },
+  "dependencies": { "express": "^5.1.0", "mysql2": "^3.14.0" }
+}
