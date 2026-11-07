@@ -45,8 +45,7 @@ A **CK Autoshop** atua no segmento de peças e componentes automotivos. Sua oper
 
 A empresa trabalha principalmente no modelo **B2B (Business to Business)**, atendendo locadoras, frotistas, oficinas, seguradoras e empresas que administram frotas.
 
-A **CK Autoshop** é uma empresa de pequeno porte classificada legalmente como ME (Microempresa).
-Principais dados sobre a dimensão e estrutura da empresa. 
+A **CK Autoshop** é uma empresa de pequeno porte classificada legalmente como ME (Microempresa). 
 
 ### 1.2 Identificação, contato e porte
 
