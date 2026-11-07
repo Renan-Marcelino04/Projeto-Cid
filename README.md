@@ -645,6 +645,7 @@ Estrutura: (1) problema da organização; (2) solução proposta; (3) modelo ló
 
 https://app.brmodeloweb.com/publicview/6aee261197ea37556406465e
 
+__________________
 
 **Banco de dados:**
 
