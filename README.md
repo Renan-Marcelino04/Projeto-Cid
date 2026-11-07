@@ -32,7 +32,7 @@ Trabalho acadêmico de levantamento de requisitos e modelagem conceitual de banc
 | Pedro Henrique Ferreira de Souza | 47266031 |
 | Pablo Paiva Rover | 48204668 |
 
-**Link_Repositório**
+**Link do Repositório:**
 https://github.com/Renan-Marcelino04/Projeto-Cid
 
 ---
@@ -44,6 +44,9 @@ https://github.com/Renan-Marcelino04/Projeto-Cid
 A **CK Autoshop** atua no segmento de peças e componentes automotivos. Sua operação envolve compra e venda de peças, atendimento a clientes empresariais, controle de estoque, expedição, transporte, faturamento e pós-venda.
 
 A empresa trabalha principalmente no modelo **B2B (Business to Business)**, atendendo locadoras, frotistas, oficinas, seguradoras e empresas que administram frotas.
+
+A **CK Autoshop** é uma empresa de pequeno porte classificada legalmente como ME (Microempresa).
+Principais dados sobre a dimensão e estrutura da empresa. 
 
 ### 1.2 Identificação, contato e porte
 
