@@ -6,6 +6,8 @@
 
 Trabalho acadêmico de levantamento de requisitos e modelagem conceitual de banco de dados, desenvolvido a partir de entrevista realizada na empresa CK Autoshop.
 
+**Aplicação publicada:** [projeto-cid.vercel.app](https://projeto-cid.vercel.app/)
+
 ## Metadados
 
 | Campo | Informação |

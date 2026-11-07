@@ -2,6 +2,8 @@
 
 Aplicação Node.js para explorar bancos MySQL no Railway: lista bancos e tabelas, mostra registros paginados e permite importar scripts SQL.
 
+**Acessar aplicação:** [https://projeto-cid.vercel.app/](https://projeto-cid.vercel.app/)
+
 ## Como iniciar no Windows
 
 Instale o Node.js 22 ou superior (versão LTS) e abra um novo terminal. Na pasta deste projeto:
