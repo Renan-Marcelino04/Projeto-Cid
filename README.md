@@ -35,6 +35,8 @@ Trabalho acadêmico de levantamento de requisitos e modelagem conceitual de banc
 **Link do Repositório:**
 https://github.com/Renan-Marcelino04/Projeto-Cid
 
+**Link do video de Apresentação:**  https://youtu.be/veDjPcawSWw?is=2sfXe_qPTaQU3sUX
+
 ---
 
 ## 1. Caracterização da Organização
